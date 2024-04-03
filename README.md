@@ -1,16 +1,11 @@
-# animated_appbar
+# Animated AppBar
 
-A new Flutter project.
+**Show some love❤️ and star the repo to support the project.**
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+## Video Demo
+[**Demo video**](https://github.com/osamajaved07/Animated-AppBar/assets/143210389/fa4a9035-77b2-471e-863d-ca7646853e0f)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
